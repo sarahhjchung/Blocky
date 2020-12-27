@@ -20,3 +20,7 @@ and Jaisie Sin
 All of the files in this directory and all subdirectories are:
 Copyright (c) Diane Horton, David Liu, Mario Badr, Sophia Huynh,
 Misha Schwartz, and Jaisie Sin
+
+## INSTRUCTIONS
+1. Download files and images
+2. Run game.py
