@@ -8,7 +8,7 @@ block.py \
 _block_to_squares method in blocky.py 
 
 ## Starter code:
-The starter code is provided solely for the personal and private use of
+The starter code (everything not listed above) is provided solely for the personal and private use of
 students taking the CSC148 course at the University of Toronto.
 Copying for purposes other than this use is expressly prohibited.
 All forms of distribution of this code, whether as given or with
