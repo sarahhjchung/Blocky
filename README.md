@@ -23,7 +23,7 @@ Copyright (c) Diane Horton, David Liu, Mario Badr, Sophia Huynh,
 Misha Schwartz, and Jaisie Sin
 
 ## INSTRUCTIONS
-First, you need the latest version of Python.
+First, you need the latest version of Python, Pygame and have a working IDE to run the game on.
 1. Download ZIP 
 2. Change settings to your desire
 3. Run game.py
